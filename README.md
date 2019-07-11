@@ -34,4 +34,4 @@
 #### RESULT
 ![RESULT](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/result.png)
 
-#### the dataset is provided
+#### the Pickeld modal is provided
