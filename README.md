@@ -19,13 +19,19 @@
 ##### Integrated the model with the web based site and Used Firebase as a cloud for storage as well as for authentication purpose of the user
 
 ##### Few Screen shot the projects
-
+#### HOME
 ![HOME](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/home.png)
+#### LOGIN
 ![LOGIN](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/login.png)
+#### SIGNUP
 ![SINGUP](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/singup.png)
+#### CONTACT
 ![CONTACT](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/contact.png)
+#### PREDICT
 ![PREDICTION](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/predict.png)
+#### APPROACH
 ![APPROACH](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/approach2.png)
+#### RESULT
 ![RESULT](https://github.com/rahuljadli/Fake-News-Detection/blob/master/screenshot/result.png)
 
 #### the dataset is provided
